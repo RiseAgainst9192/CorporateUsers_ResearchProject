@@ -1,7 +1,10 @@
-### Motive
-First I will say the biggest motivator to embarking this my knowledge in technology **has helped me** find creative solutions to everyday problems
+### Preface
+First of all, I want put forth claim that in my own life, having technical prowess **has helped me** find creative solutions to specific problems.
 Examples:
 
+I believe that being the forfront of seeing users struggle (e.g. not utilizing technology to the fullest), puts tech support in an **advantegous position** to demonstrate their value and provide solutions. A lot of these guys play with software products for fun (I know I did), and will spend hours on Product Hunt or . trying to find the best. Wouldn't it be nice if John from Accounting wanted to find a better way to organize his ? You can give a unique/customizable solution of using (which no book/school) and John will be happy. (of course, there's always considerations like security...in which case Security officer can be contacted). So by having this fusion of intution (for ) I believe the veloctiy peopls workflow will improve (and systems fine-tunin), via better suggestons by Tech Support.
+
+### Exper
 Working in IT support over a year (in 2 seperate institutions), it's always perplexed me why there's there's divide between the **IT Department** and **Business Employees**. More specificically, I neverknw why past supervisors never bother to ask me to do the following during my free-time:
 
 1. **Talk to users**. Asked them they how they worked or what their common job duties were.
